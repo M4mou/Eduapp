@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='lecho.lib.hellocharts.view.PieChartView void setPieChartData(lecho.lib.hellocharts.model.PieChartData)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
